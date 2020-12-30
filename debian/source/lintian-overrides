@@ -1,0 +1,3 @@
+# this is how upstream is distrubuting source of this regexp,
+# see http://detectmobilebrowsers.com/download/jquery
+source-is-missing zzzeeksphinx/themes/zzzeeksphinx/static/detectmobile.js.*
